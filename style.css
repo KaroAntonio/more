@@ -1,0 +1,24 @@
+body,html { margin: 0px; border: 0px; }
+
+#loading {
+	position: absolute;
+	right: 50vw;
+	top: 20vh;
+	width: 40px;
+	height: 40px;
+	z-index: 1000000; /* the highest */
+}
+
+#banner {
+	font-size: 50px;
+	color: black;
+	background:white;
+	display:block;
+	position:absolute;
+	margin-top:80vh;
+	margin-left:20vw;
+	margin-right:auto;
+	width:auto;
+}
+
+
